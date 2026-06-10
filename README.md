@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Sujal+Awasthi!;Deep+Learning+%7C+NLP+%7C+Machine+Learning;B.Tech+CSE+Student+%40+SLIET;AI+Enthusiast+%7C+Tech+Explorer;Welcome+to+My+GitHub+Profile!)](https://github.com/Sujal3141)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FFC0CB&center=true&vCenter=true&width=800&lines=Hi+I'm+Sachin+Kumar+Verma!;AI+ML+%7C+NLP+%7C+Wev+Dev;B.Tech+CSE+Student+%40+SLIET;AI+Enthusiast+%7C+Tech+Explorer;Welcome+to+My+GitHub+Profile!)](https://github.com/sn1638)
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)
 
-[![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/Sujal3141)
+[![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/sn1638)
 
 ---
 
@@ -18,10 +18,10 @@
 # 🛠️ Tech Stack
 
 ### **Programming Languages**
-[![Languages](https://skillicons.dev/icons?i=python,cpp,js,react,html)](https://github.com/Sujal3141)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js,react,html,nodejs,express)](https://github.com/Sujal3141)
 
 ### **ML / DL Frameworks**
-[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://github.com/Sujal3141)
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://github.com/sn1638)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
@@ -37,7 +37,7 @@
 ![GFPGAN](https://img.shields.io/badge/GFPGAN-brightgreen?style=for-the-badge)
 
 ### **Tools & Platforms**
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux)](https://github.com/Sujal3141)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux)](https://github.com/sn1638)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -60,21 +60,21 @@
 
 # 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sn1638&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Sujal3141)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sn1638&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/sn1638)
 
 ---
 
 # 📈 GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sn1638&theme=tokyo-night)](https://github.com/Sujal3141)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sn1638&theme=tokyo-night)](https://github.com/sn1638)
 
 ---
 
 # 🐍 Contribution Snake
 
-> **Setup required:** Go to your `Sujal3141/Sujal3141` repo → Actions tab → create a workflow using [platane/snk](https://github.com/platane/snk) to generate your own snake SVG. Once set up, replace the URL below with your own output path.
+> **Setup required:** Go to your `sn1638/sn1638` repo → Actions tab → create a workflow using [platane/snk](https://github.com/platane/snk) to generate your own snake SVG. Once set up, replace the URL below with your own output path.
 
-[![snake gif](https://github.com/Sujal3141/Sujal3141/blob/output/github-contribution-grid-snake.svg)](https://github.com/sn1638)
+[![snake gif](https://github.com/sn1638/Sujal3141/blob/output/github-contribution-grid-snake.svg)](https://github.com/sn1638)
 
 ---
 
@@ -126,23 +126,3 @@
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)
 
 ⭐ Thanks for visiting my profile — feel free to star my repositories! ⭐
-
-
-
-
-## Hi there 👋
-
-<!--
-**sn1638/sn1638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
