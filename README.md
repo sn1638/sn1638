@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FFC0CB&center=true&vCenter=true&width=800&lines=Hi+I'm+Sachin+Kumar+Verma!;AI+ML+%7C+NLP+%7C+Wev+Dev;B.Tech+CSE+Student+%40+SLIET;AI+Enthusiast+%7C+Tech+Explorer;Welcome+to+My+GitHub+Profile!)](https://github.com/sn1638)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF1493&center=true&vCenter=true&width=800&lines=Hi+I'm+Sachin+Kumar+Verma!;AI+ML+%7C+NLP+%7C+Wev+Dev;B.Tech+CSE+Student+%40+SLIET;AI+Enthusiast+%7C+Tech+Explorer;Welcome+to+My+GitHub+Profile!)](https://github.com/sn1638)
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)
 
