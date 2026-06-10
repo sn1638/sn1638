@@ -8,19 +8,17 @@
 
 # 🚀 About Me
 
-- 🎓 **3rd Year B.Tech CSE Student at SLIET** | CGPA: **9.14 / 10.0**
-- 🏅 **GATE 2026 Qualified** — CS/IT & DA streams
-- 🤖 Passionate about **Deep Learning, NLP, Transformers & GenAI**
-- 🎭 Currently working on **AI-Identity** — End-to-end deepfake pipeline (face swap + voice conversion)
+- 🎓 **3rd Year B.Tech CSE Student at SLIET** | CGPA: **8.09 / 10.0**
+- 🤖 Passionate about **AIML & WEBDEV**
 - 📊 Building **YouTube Trend Predictor** — Transformer-based sentiment + time series forecasting
-- 🎯 Goal: **ML Engineer / Research Scientist**
+- 🎯 Goal: **ML Engineer / Software engineeer **
 
 ---
 
 # 🛠️ Tech Stack
 
 ### **Programming Languages**
-[![Languages](https://skillicons.dev/icons?i=python,cpp,js)](https://github.com/Sujal3141)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js,react,html)](https://github.com/Sujal3141)
 
 ### **ML / DL Frameworks**
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://github.com/Sujal3141)
@@ -50,25 +48,25 @@
 # 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujal3141&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal3141&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sn1638&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sn1638&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal3141&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn1638&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sujal3141&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Sujal3141)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sn1638&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Sujal3141)
 
 ---
 
 # 📈 GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sujal3141&theme=tokyo-night)](https://github.com/Sujal3141)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sn1638&theme=tokyo-night)](https://github.com/Sujal3141)
 
 ---
 
@@ -76,14 +74,14 @@
 
 > **Setup required:** Go to your `Sujal3141/Sujal3141` repo → Actions tab → create a workflow using [platane/snk](https://github.com/platane/snk) to generate your own snake SVG. Once set up, replace the URL below with your own output path.
 
-[![snake gif](https://github.com/Sujal3141/Sujal3141/blob/output/github-contribution-grid-snake.svg)](https://github.com/Sujal3141)
+[![snake gif](https://github.com/Sujal3141/Sujal3141/blob/output/github-contribution-grid-snake.svg)](https://github.com/sn1638)
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🎭 **AI-Identity** *(Active Research)*
-[![Repo](https://img.shields.io/badge/Repo-AI--Identity-blueviolet?style=flat-square&logo=github)](https://github.com/Sujal3141/AI-Identity)
+[![Repo](https://img.shields.io/badge/Repo-AI--Identity-blueviolet?style=flat-square&logo=github)](https://github.com/sn1638/AI-Identity)
 - End-to-end **deepfake video pipeline**: face swap + voice conversion
 - **InsightFace inswapper_128** + **BiSeNet** semantic masking + LAB color transfer
 - **GFPGAN v1.3** face restoration + **RVC RMVPE** voice identity conversion
@@ -118,12 +116,12 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sujal-awasthi-152971285/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sujalawst2005@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sn1638/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sachin111mrj@gmail.com)
 
 ---
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=Sujal3141&style=for-the-badge&color=blue)](https://github.com/Sujal3141)
+[![Visitor Count](https://komarev.com/ghpvc/?username=sn1638&style=for-the-badge&color=blue)](https://github.com/sn1638)
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg)
 
