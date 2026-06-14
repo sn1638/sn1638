@@ -18,7 +18,7 @@
 # 🛠️ Tech Stack
 
 ### **Programming Languages**
-[![Languages](https://skillicons.dev/icons?i=python,cpp,js,react,html,nodejs,express)](https://github.com/Sujal3141)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js,react,html,nodejs,express,c)](https://github.com/sn1638)
 
 ### **ML / DL Frameworks**
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://github.com/sn1638)
